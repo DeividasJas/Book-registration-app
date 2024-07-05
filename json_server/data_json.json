@@ -1,0 +1,298 @@
+{
+  "books": [
+    {
+      "id": "65d20506a83dea30907a7837",
+      "title": "1984",
+      "author": "George Orwell",
+      "category": "Dystopian",
+      "price": 10.99,
+      "cover": "https://thumb.knygos-static.lt/yp1gpZsX-nBlXi4t6w9mrtMBkb0=/fit-in/0x460/images/books/14511611/1706255343_b177d3b202600b0767c3e753b1a69f4c_1800x1800.jpg",
+      "images": [
+        "1984_cover.jpg",
+        "1984_back.jpg"
+      ],
+      "reserved": true,
+      "reviews": [
+        {
+          "name": "ff",
+          "review": "ff"
+        },
+        {
+          "name": "deividas",
+          "review": "patiko labai"
+        },
+        {
+          "name": "fff",
+          "review": "fff"
+        },
+        {
+          "name": "vvv",
+          "review": "vvv"
+        },
+        {
+          "name": "dd",
+          "review": "ddd"
+        },
+        {
+          "name": "dd",
+          "review": "ddd"
+        },
+        {
+          "name": "dd",
+          "review": "ddd"
+        },
+        {
+          "name": "dd",
+          "review": "ddd"
+        },
+        {
+          "name": "dd",
+          "review": "ddd"
+        },
+        {
+          "name": "dd",
+          "review": "ddd"
+        },
+        {
+          "name": "dd",
+          "review": "ddd"
+        },
+        {
+          "name": "dd",
+          "review": "ddd"
+        },
+        {
+          "name": "dd",
+          "review": "ddd"
+        },
+        {
+          "name": "dd",
+          "review": "ddd"
+        },
+        {
+          "name": "dd",
+          "review": "ddd"
+        },
+        {
+          "name": "dd",
+          "review": "ddd"
+        },
+        {
+          "name": "dd",
+          "review": "ddd"
+        },
+        {
+          "name": "dd",
+          "review": "ddd"
+        }
+      ]
+    },
+    {
+      "id": "65d2050ed827e6008abf0a41",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "category": "Coming of Age",
+      "price": 11.99,
+      "cover": "https://thumb.knygos-static.lt/inyDrAmRlPteMlSixtn-9ZCSztY=/fit-in/0x460/images/books/14530484/1707807132_Dingusiu_zodziu_zodynas_1_virs.jpg",
+      "images": [
+        "catcher_cover.jpg",
+        "catcher_back.jpg"
+      ],
+      "reserved": false,
+      "reviews": [
+        {
+          "name": "ddd",
+          "review": "haha"
+        },
+        {
+          "name": "vv",
+          "review": "vvv"
+        },
+        {
+          "name": "Deividas Jasas",
+          "review": "dddd"
+        },
+        {
+          "name": "xxx",
+          "review": "xxx"
+        },
+        {
+          "name": "vv",
+          "review": "vvv"
+        }
+      ]
+    },
+    {
+      "id": "65d205194f1fef9431c57004",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "category": "Romance",
+      "price": 14.99,
+      "cover": "https://thumb.knygos-static.lt/5Dald7LxEaY6GV00GnSqQAk4zzk=/fit-in/0x460/images/books/14500389/1706258404_11d3266ee4f2dba9ffcbd3716e1e9e3d_1800x1800.jpg",
+      "images": [
+        "pride_prejudice_cover.jpg",
+        "pride_prejudice_back.jpg"
+      ],
+      "reserved": true,
+      "reviews": [
+        {
+          "name": "Deividas Jasas",
+          "review": "ccc"
+        }
+      ]
+    },
+    {
+      "id": "65d20522ab03d59a68587521",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "category": "Fantasy",
+      "price": 17.99,
+      "cover": "https://thumb.knygos-static.lt/npuUddN6WSP7U-3uPoxJnnNizqg=/fit-in/0x460/images/books/14505200/1705309243_bd25bf04b9592dfd83a5cb5c319b4b80_1800x1800.jpg",
+      "images": [
+        "hobbit_cover.jpg",
+        "hobbit_back.jpg"
+      ],
+      "reserved": false,
+      "reviews": []
+    },
+    {
+      "id": "65d20528fae97d354723bdd9",
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "category": "Young Adult",
+      "price": 13.99,
+      "cover": "https://thumb.knygos-static.lt/UV0DI8cplNmoUqQzdCYbwH9aNdM=/fit-in/0x460/images/books/14195769/1693457801_Fiksavimas.PNG",
+      "images": [
+        "hunger_games_cover.jpg",
+        "hunger_games_back.jpg"
+      ],
+      "reserved": true,
+      "reviews": []
+    },
+    {
+      "id": "65d20530ecdf417bf5063989",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "category": "Fantasy",
+      "price": 19.99,
+      "cover": "https://thumb.knygos-static.lt/zveIqRLZ-CanBSW-M0co95Q7Pw8=/fit-in/0x460/images/books/14500380/1706606466_Ziemos-mergaites.jpg",
+      "images": [
+        "harry_potter_cover.jpg",
+        "harry_potter_back.jpg"
+      ],
+      "reserved": true,
+      "reviews": []
+    },
+    {
+      "id": "65d20538c17e643d87268758",
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "category": "Fantasy",
+      "price": 25.99,
+      "cover": "https://thumb.knygos-static.lt/7CaGAPqkwTJRpu7ML0epL3kc9Uw=/fit-in/0x460/images/books/2743969/1674470670_pilnatve-1.jpg",
+      "images": [
+        "lotr_cover.jpg",
+        "lotr_back.jpg"
+      ],
+      "reserved": true,
+      "reviews": []
+    },
+    {
+      "id": "65d20540ce4055c36c8e286a",
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "category": "Mystery",
+      "price": 16.99,
+      "cover": "https://thumb.knygos-static.lt/7cP-ogv_fqiTVLmrG686DmTA49c=/fit-in/0x460/images/books/1131061/1477308237_dramblys-kuris-pamirso-laime-1.jpg",
+      "images": [
+        "da_vinci_code_cover.jpg",
+        "da_vinci_code_back.jpg"
+      ],
+      "reserved": true,
+      "reviews": []
+    },
+    {
+      "id": "65d20550165f9d7494d69be2",
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "category": "Dystopian",
+      "price": 12.99,
+      "images": [
+        "brave_new_world_cover.jpg",
+        "brave_new_world_back.jpg"
+      ],
+      "reserved": true,
+      "reviews": []
+    },
+    {
+      "id": "65d20549741d9bff88674f54",
+      "title": "The Shining",
+      "author": "Stephen King",
+      "category": "Horror",
+      "price": 14.99,
+      "cover": "https://thumb.knygos-static.lt/yXV0CpfGvrZuGucYy2jLsDsA7Cw=/fit-in/0x460/images/books/4924/1465563585_vilniaus-pokeris-2-1.jpg",
+      "images": [
+        "shining_cover.jpg",
+        "shining_back.jpg"
+      ],
+      "reserved": true,
+      "reviews": []
+    },
+    {
+      "id": "65d2055839aa0c5aa67ec1a4",
+      "title": "The Girl with the Dragon Tattoo",
+      "author": "Stieg Larsson",
+      "category": "Mystery",
+      "price": 18.99,
+      "cover": "https://thumb.knygos-static.lt/RhIiOdIpyPYLA5mFMCn_ocPhHrU=/fit-in/0x460/images/books/23978/1589180418_vakarykstis-pasaulis-kopija-1.jpg",
+      "images": [
+        "dragon_tattoo_cover.jpg",
+        "dragon_tattoo_back.jpg"
+      ],
+      "reserved": true,
+      "reviews": []
+    },
+    {
+      "id": "65d20566d967045074406e7b",
+      "title": "The Chronicles of Narnia",
+      "author": "C.S. Lewis",
+      "category": "Fantasy",
+      "price": 20.99,
+      "cover": "https://thumb.knygos-static.lt/1TbrTqmAQs7dtyNrZwE4ou00gfc=/fit-in/0x460/images/books/14536015/1706782814_1551274894_1462873188_iii-reicho-triumfas.jpg",
+      "images": [
+        "narnia_cover.jpg",
+        "narnia_back.jpg"
+      ],
+      "reserved": true,
+      "reviews": []
+    },
+    {
+      "id": "65d20560a4ea38e0d9de2222",
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "category": "Post-Apocalyptic",
+      "price": 15.99,
+      "cover": "https://thumb.knygos-static.lt/ash-pf49sC5l_yZg_RjQ0EPzoLs=/fit-in/0x460/images/books/14500369/1705648332_5719dce8be5bbe67341fadefaba6da6a_1800x1800.jpg",
+      "images": [
+        "road_cover.jpg",
+        "road_back.jpg"
+      ],
+      "reserved": true,
+      "reviews": []
+    },
+    {
+      "id": "65d2056f01f92d75504562ea",
+      "title": "The Fault in Our Stars",
+      "author": "John Green",
+      "category": "Young Adult",
+      "price": 13.99,
+      "cover": "https://thumb.knygos-static.lt/r2eDsftcughGuq0P76x5GRy6vfA=/fit-in/0x460/images/books/14530482/1707996287_9gyvybes_2d1s.jpg",
+      "images": [
+        "fault_in_our_stars_cover.jpg",
+        "fault_in_our_stars_back.jpg"
+      ],
+      "reserved": true,
+      "reviews": []
+    }
+  ]
+}
